@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Blackhole header with readable text -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a0033,100:2d004d&height=300&section=header&text=Ceazar%20Ian%20Edit&fontSize=65&fontColor=bf00ff&animation=twinkling&fontAlignY=45&desc=Developer%20%7C%20Architect%20%7C%20Creator&descSize=24&descAlignY=70&descColor=d8b4fe)
+<!-- Bold header - no animation on name -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0033&height=250&section=header&text=CEAZAR%20IAN%20EDIT&fontSize=80&fontColor=bf00ff&fontAlignY=40&desc=DEVELOPER%20%7C%20ARCHITECT%20%7C%20CREATOR&descSize=28&descAlignY=65&descColor=e9d5ff)
 
-<!-- Black hole animation -->
+<!-- Black hole visual -->
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="120">
 <br>
 
-<!-- Clean typing animation - more readable -->
+<!-- Typing animation - only on the story text, not the name -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=bf00ff&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=17+years+old+developer+from+the+Philippines;Built+a+15%2C000+line+school+system+solo;Ranked+4th+for+BSIT+at+Sultan+Kudarat+State+University;Making+horror+games+in+Godot;Vanilla+%E2%86%92+Vue.js+evolution+in+progress;Targeting+Canada+or+Netherlands+for+global+opportunities)](https://git.io/typing-svg)
 
 <br>
