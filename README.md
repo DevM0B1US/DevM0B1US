@@ -1,294 +1,265 @@
 <div align="center">
 
-<!-- Animated gradient header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0033,50:330066,100:6600cc&height=250&section=header&text=CEAZAR%20IAN%20EDIT&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=17%20|%20Developer%20|%20Philippines%20→%20World&descSize=20&descAlignY=65&descColor=cc99ff)
+<!-- Neon header with gradient -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:2d0036,50:4a0080,100:6a0dad&height=280&section=header&text=CEAZAR%20IAN%20EDIT&fontSize=70&fontColor=bf00ff&animation=fadeIn&fontAlignY=35&desc=🔮%20Code.%20Create.%20Conquer.%20🔮&descSize=22&descAlignY=60&descColor=e0b0ff)
 
-<!-- Animated typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=9933ff&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Built+a+15,000+line+school+system+solo;Ranked+4th+for+BSIT+at+Sultan+Kudarat+State+University;Making+horror+games+in+Godot;Going+from+Vanilla+to+Vue+like+a+champ;Target:+Canada+or+Netherlands)](https://git.io/typing-svg)
+<!-- Epic typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=400&color=bf00ff&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=17YO+DEV+WHO+BUILT+15,000+LINES+SOLO;RANKED+4TH+BSIT+@+SULTAN+KUDARAT+STATE+UNI;HORROR+GAME+DEV+%7C+PHOTO+RESTORATION+PRO;VANILLA+→+VUE+EVOLUTION+IN+PROGRESS;PH+→+CA/NL+🌏+GLOBAL+AMBITIONS)](https://git.io/typing-svg)
 
-<!-- Animated wave divider -->
-![wave](https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/animation_500_kxa883sd.gif)
+<!-- Neon wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9933ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devm0b1us.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-6600cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceazar@example.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-9933ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devm0b1us)
+<!-- Socials with neon badges -->
+[![Portfolio](https://img.shields.io/badge/🚀_MY_DOMAIN-bf00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0033)](https://devm0b1us.github.io)
+[![Email](https://img.shields.io/badge/📬_HIT_ME_UP-9d00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:ceazar@example.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKED_IN-bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/devm0b1us)
 
 </div>
 
 <br>
 
-<!-- Animated line -->
+<!-- Trophy banner -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevM0B1US&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <br>
 
-## 🎭 Who Am I?
+<!-- Animated neon line -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<br>
+
+## 🎭 THE STORY
 
 <div align="center">
 
-<table>
-<tr>
-<td width="60%">
-
+```diff
++ NAME: Ceazar Ian Edit
++ BIRTH: June 13, 2008 (17 years of excellence)
++ ORIGIN: Sultan Kudarat, Philippines 🇵🇭
++ MIND: INTP - The Architect
++ MISSION: Build things that matter
 ```
-🎂 17 years old (June 13, 2008)
-📍 Sultan Kudarat, Philippines
-🧠 INTP - The Logician
-🎓 TVL-ICT Graduate
-🏆 4th Rank BSIT @ SKSU
-🌍 Target: Canada / Netherlands
+
+<table>
+<tr>
+<td width="55%">
+
+### 🎯 WHAT I'M ABOUT
+- **Solo dev** who doesn't wait for permission
+- Built a **15,000 line production system** alone
+- **Ranked 4th** for BSIT at SKSU
+- Making **horror games** that actually scare people
+- **Photo restoration** wizard
+- **Linux** daily driver who knows the terminal
+
+### 💡 THE MINDSET
+> *"Don't overthink it. Build it. Ship it. Improve it."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/gist/berkeli/3f7f0f2223a292859d599844d29344c4/raw/3e1555ca98c8387b5d0b8d88e4ef4aeef81d499e/coding.gif" width="95%">
+
+**TVL-ICT Graduate**  
+**SKSU 4th Ranker**  
+**NIA Work Immersion**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Neon divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/purple-line.gif" width="100%">
+</div>
+
+<br>
+
+## 🔥 THE MAGNUM OPUS
+
+<div align="center">
+
+[![KNHS](https://github-readme-stats.vercel.app/api/pin/?username=DevM0B1US&repo=KNHS_WEBSITE&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&icon_color=9d00ff&text_color=c9d1d9)](https://github.com/DevM0B1US/KNHS_WEBSITE)
+
+</div>
+
+### KNHS School Management Platform
+
+<div align="center">
+
+<!-- Skill bars for project stats -->
+```
+SCALE      ████████████████████████████  15,000+ Lines
+COMPLEXITY ██████████████████████░░░░░░  Full-Stack
+STATUS     ████████████████████████████  Production Live
+SOLO BUILD ████████████████████████████  100% Me
 ```
 
-**What I Do:**
-- Solo dev who built a whole school management system
-- 15,000+ lines of code, production-ready
-- Horror game dev in Godot
-- Photo restoration pro
-- Linux user who actually knows what they're doing
-
-</td>
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/gist/zhangchione/0f8f9c10c921b5ac78a7448e4e2584b8/raw/39dfc11b33cb4d9afb12b0c4accad416394280a8/coding.gif" width="100%">
-
-</td>
-</tr>
-</table>
+| What It Does | Tech Stack |
+|:-------------|:-----------|
+| 📋 Student enrollment & records | Vue.js 3 |
+| 📊 Real-time grade management | TypeScript |
+| 📅 Academic year orchestration | Supabase |
+| 📈 Admin dashboard & analytics | TailwindCSS |
+| 🚨 Emergency lockdown mode | Vite |
+| 📝 Full audit logging | PostgreSQL |
 
 </div>
 
 <br>
 
-<!-- Animated line -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
-</div>
+<!-- Contribution snake -->
+<img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/animation_500_kxa883sd.gif" width="100%">
 
 <br>
 
-## 🔥 The Main Event
+## ⚔️ ARSENAL
 
 <div align="center">
 
-[![KNHS](https://github-readme-stats.vercel.app/api/pin/?username=DevM0B1US&repo=KNHS_WEBSITE&theme=radical&hide_border=true&bg_color=1a0033&title_color=cc99ff&icon_color=9933ff&text_color=ffffff)](https://github.com/DevM0B1US/KNHS_WEBSITE)
+### 🎯 PRIMARY WEAPONS
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+
+### 🔧 TOOLKIT
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
+
+### 🎮 CREATIVE SUITE
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=0d1117)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 
 </div>
 
-### KNHS School Management System
+<br>
 
+<!-- Neon divider -->
 <div align="center">
-
-| Stats | Details |
-|-------|---------|
-| **Lines of Code** | 15,000+ |
-| **Built By** | Just me, solo |
-| **Stack** | Vue.js + TypeScript + Supabase |
-| **Status** | Live & Running |
-
-</div>
-
-**What it does:**
-- Student enrollment & records
-- Grade management (real-time)
-- Academic year handling
-- Admin dashboard with analytics
-- Emergency/lockdown mode
-- Full audit logs
-
-<br>
-
-<!-- Animated snake -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/purple-line.gif" width="100%">
 </div>
 
 <br>
 
-## 💻 My Weapons
-
-<div align="center">
-
-### Core Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0033)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0033)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0033)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0033)
-
-### Tools
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a0033)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a0033)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a0033)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0033)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a0033)
-
-### Game Dev
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=1a0033)
-
-</div>
-
-<br>
-
-<!-- Animated line -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
-</div>
-
-<br>
-
-## 🎮 Side Quests
-
-<div align="center">
-
-### Horror Games I'm Making
-
-<table>
-<tr>
-<td align="center">
-
-**Instance Zero**
-<br>
-Industrial Horror
-<br>
-<br>
-🎮 Godot 4
-<br>
-🟡 In Dev
-
-</td>
-<td align="center">
-
-**Dead Current**
-<br>
-Survival Horror
-<br>
-<br>
-🎮 Godot 4
-<br>
-🔴 Planning
-
-</td>
-</tr>
-</table>
-
-### Photo Restoration
-I fix up old/damaged photos professionally. Bring the past back to life.
-
-**Services:**
-- Damage repair
-- Color fixing
-- Detail enhancement
-
-</div>
-
-<br>
-
-<!-- Animated line -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DevM0B1US&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=cc99ff&icon_color=9933ff&text_color=ffffff)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevM0B1US&theme=radical&hide_border=true&background=1a0033&stroke=cc99ff&ring=9933ff&fire=cc99ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=cc99ff&sideLabels=ffffff&dates=aaaaaa)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM0B1US&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=cc99ff&text_color=ffffff)
-
-</div>
-
-<br>
-
-<!-- Animated line -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
-</div>
-
-<br>
-
-## 🏆 Bragging Rights
+## 🎮 CREATIVE WORKS
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### School
-- ✅ TVL-ICT Graduate
-- ✅ 4th Rank BSIT @ SKSU
+### 👻 Instance Zero
+**Industrial Horror Game**
 
-### Work
-- ✅ NIA Work Immersion
-- ✅ Data Migration Experience
+🎮 Godot 4 Engine  
+🟡 Active Development  
+*Atmospheric. Unsettling. Unforgettable.*
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### Projects
-- ✅ 15K Lines Solo Project
-- ✅ Production Deployed
-- ✅ Full-Stack School System
+### ⚡ Dead Current
+**Survival Horror**
 
-### Creative
-- ✅ Godot Horror Games
-- ✅ Pro Photo Restoration
+🎮 Godot 4 Engine  
+🔴 Pre-Production  
+*Power. Isolation. Dread.*
 
 </td>
 </tr>
 </table>
 
+### 📸 Photo Restoration Services
+
+**Professional-grade restoration of damaged/vintage photos**
+
+✨ Damage Repair | 🎨 Color Correction | 🔍 Detail Enhancement | 📜 Historical Preservation
+
 </div>
 
 <br>
 
-<!-- Animated line -->
+<!-- Animated divider -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br>
 
-## 🌍 Where I'm Going
+## 📊 THE NUMBERS
 
 <div align="center">
 
-**Target Countries:**
+<!-- Stats with neon theme -->
+![Stats](https://github-readme-stats.vercel.app/api?username=DevM0B1US&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&icon_color=9d00ff&text_color=c9d1d9&ring=bf00ff)
 
-🇨🇦 **Canada** — Primary
-🇳🇱 **Netherlands** — Secondary
+<!-- Streak with neon -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevM0B1US&theme=midnight-purple&hide_border=true&background=0d1117&stroke=bf00ff&ring=9d00ff&fire=bf00ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=bf00ff&sideLabels=c9d1d9&dates=8b949e)
 
-Looking for opportunities to work with serious dev teams.
+<!-- Languages -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM0B1US&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&text_color=c9d1d9)
 
 </div>
 
 <br>
 
-<!-- Animated line -->
+<!-- Neon wave -->
+<img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/animation_500_kxa883sd.gif" width="100%">
+
+<br>
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/animated-line.gif" width="100%">
+
+| 🎓 Academic | 💼 Experience | 🚀 Projects |
+|:------------|:--------------|:------------|
+| ✅ TVL-ICT Graduate | ✅ NIA Work Immersion | ✅ 15K Line System |
+| ✅ 4th Rank BSIT @ SKSU | ✅ Data Migration Pro | ✅ Production Deployed |
+| | | ✅ Full-Stack Solo Build |
+
+<br>
+
+### 🌍 WHERE I'M HEADED
+
+🇨🇦 **Canada** — Primary Target  
+🇳🇱 **Netherlands** — Secondary Target  
+
+**Goal:** Join a serious dev team and build world-class stuff
+
 </div>
 
 <br>
 
-## 🗣️ Languages
+<!-- Final neon divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<br>
+
+## 🗣️ SPEAKING
 
 <div align="center">
 
 | Language | Level |
 |----------|-------|
-| 🇬🇧 English | Fluent |
+| 🇬🇧 English | Fluent (Professional) |
 | 🇵🇭 Tagalog | Native |
 | 🌾 Hiligaynon | Native |
 
@@ -296,13 +267,16 @@ Looking for opportunities to work with serious dev teams.
 
 <br>
 
-<!-- Animated footer -->
+<!-- Epic footer -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:330066,100:6600cc&height=120&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0036,50:4a0080,100:6a0dad&height=150&section=footer&animation=twinkling)
 
-**Built by Ceazar Ian Edit**
+# "Code is poetry. I write epics."
 
-![Views](https://komarev.com/ghpvc/?username=DevM0B1US&color=9933ff&style=for-the-badge&labelColor=1a0033)
+**Ceazar Ian Edit** • 2026
+
+![Views](https://komarev.com/ghpvc/?username=DevM0B1US&color=bf00ff&style=for-the-badge&labelColor=0d1117)
+[![Followers](https://img.shields.io/github/followers/DevM0B1US?color=bf00ff&style=for-the-badge&labelColor=0d1117&logo=github)](https://github.com/DevM0B1US)
 
 </div>
