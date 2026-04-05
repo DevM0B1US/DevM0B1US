@@ -14,6 +14,11 @@
 [![Email](https://img.shields.io/badge/📬_HIT_ME_UP-9d00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:ceazar@example.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKED_IN-bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/devm0b1us)
 
+<!-- Badass visitor counter with hits.sh -->
+<br><br>
+[![Visitors](https://hits.sh/github.com/DevM0B1US/DevM0B1US.svg?style=for-the-badge&label=VISITORS&labelColor=0d1117&color=bf00ff&extraCount=0)](https://hits.sh/github.com/DevM0B1US/DevM0B1US/)
+[![Followers](https://img.shields.io/github/followers/DevM0B1US?color=bf00ff&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&logo=github)](https://github.com/DevM0B1US)
+
 </div>
 
 <br>
@@ -275,8 +280,5 @@ SOLO BUILD ███████████████████████
 # "Code is poetry. I write epics."
 
 **Ceazar Ian Edit** • 2026
-
-![Views](https://komarev.com/ghpvc/?username=DevM0B1US&color=bf00ff&style=for-the-badge&labelColor=0d1117)
-[![Followers](https://img.shields.io/github/followers/DevM0B1US?color=bf00ff&style=for-the-badge&labelColor=0d1117&logo=github)](https://github.com/DevM0B1US)
 
 </div>
