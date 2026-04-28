@@ -1,97 +1,58 @@
 <div align="center">
 
-<!-- Bold header - no animation on name -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0033&height=250&section=header&text=CEAZAR%20IAN%20EDIT&fontSize=80&fontColor=bf00ff&fontAlignY=40&desc=DEVELOPER%20%7C%20ARCHITECT%20%7C%20CREATOR&descSize=28&descAlignY=65&descColor=e9d5ff)
-
-<!-- Black hole visual -->
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="120">
-<br>
-
-<!-- Typing animation - only on the story text, not the name -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=bf00ff&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=17+years+old+developer+from+the+Philippines;Built+a+15%2C000+line+school+system+solo;Ranked+4th+for+BSIT+at+Sultan+Kudarat+State+University;Making+horror+games+in+Godot;Vanilla+%E2%86%92+Vue.js+evolution+in+progress;Targeting+Canada+or+Netherlands+for+global+opportunities)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=200&section=header&text=CEAZAR%20IAN%20EDIT&fontSize=70&fontColor=58a6ff&fontAlignY=45&desc=FULL-STACK%20DEVELOPER&descSize=24&descAlignY=70&descColor=8b949e)
 
 <br>
 
-<!-- Animated wave -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=800&lines=17-year-old+developer+from+the+Philippines;4th+Rank+BSIT+@+Sultan+Kudarat+State+University;Production-grade+systems+with+25%2C000%2B+lines+of+code;Rust+%2B+Tauri+v2+for+native+Linux+applications)](https://git.io/typing-svg)
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-bf00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0033)](https://devm0b1us.github.io)
-[![Email](https://img.shields.io/badge/Email-9d00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:ceazar@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/devm0b1us)
+<br>
 
-<!-- Visitor counter -->
-<br><br>
-[![Visitors](https://hits.sh/github.com/DevM0B1US/DevM0B1US.svg?style=for-the-badge&label=VISITORS&labelColor=0d1117&color=bf00ff&extraCount=0)](https://hits.sh/github.com/DevM0B1US/DevM0B1US/)
-[![Followers](https://img.shields.io/github/followers/DevM0B1US?color=bf00ff&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&logo=github)](https://github.com/DevM0B1US)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://devm0b1us.github.io)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ceazaredit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/devm0b1us)
+
+<br>
+
+[![Visitors](https://hits.sh/github.com/DevM0B1US/DevM0B1US.svg?style=for-the-badge&label=VISITORS&labelColor=0d1117&color=58a6ff)](https://hits.sh)
+[![Followers](https://img.shields.io/github/followers/DevM0B1US?color=58a6ff&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&logo=github)](https://github.com/DevM0B1US)
 
 </div>
-
-<br>
-
-<!-- Trophy banner -->
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevM0B1US&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<!-- Animated snake -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br>
 
 ## About Me
 
-<div align="center">
-
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-### Quick Facts
+**Quick Facts**
 - **Name:** Ceazar Ian Edit
 - **Age:** 17 (Born June 13, 2008)
 - **Location:** Sultan Kudarat, Philippines
-- **Personality:** INTP - The Architect
 - **Education:** TVL-ICT Graduate, 4th Rank BSIT @ SKSU
-- **Goal:** Work in Canada 🇨🇦 or Netherlands 🇳🇱
+- **Personality:** INTP — The Architect
 
-### What I Do
-- Solo developer who built a 15,000 line production system
-- Horror game development with Godot
-- Professional photo restoration
-- Linux power user
-- Data migration specialist (NIA Work Immersion)
-
-### Philosophy
-> "Build things that matter. Ship fast. Improve always."
+**Career Goals**
+- 🇨🇦 **Canada** — Primary target
+- 🇳🇱 **Netherlands** — Secondary target
 
 </td>
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/gist/berkeli/3f7f0f2223a292859d599844d29344c4/raw/3e1555ca98c8387b5d0b8d88e4ef4aeef81d499e/coding.gif" width="95%">
+**Verified Achievements**
 
-**Achievements**  
-TVL-ICT Graduate  
-SKSU 4th Ranker  
-NIA Work Immersion
+| Milestone | Status |
+|:----------|:------:|
+| TVL-ICT Graduate | ✅ |
+| 4th Rank BSIT @ SKSU | ✅ |
+| NIA Work Immersion | ✅ |
+| Production Systems Deployed | ✅ |
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<!-- Purple divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/purple-line.gif" width="100%">
-</div>
 
 <br>
 
@@ -99,186 +60,119 @@ NIA Work Immersion
 
 <div align="center">
 
-[![KNHS](https://github-readme-stats.vercel.app/api/pin/?username=DevM0B1US&repo=KNHS_WEBSITE&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&icon_color=9d00ff&text_color=c9d1d9)](https://github.com/DevM0B1US/KNHS_WEBSITE)
+[![KNHS](https://github-readme-stats.vercel.app/api/pin/?username=DevM0B1US&repo=KNHS_WEBSITE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/DevM0B1US/KNHS_WEBSITE)
 
 </div>
 
-### KNHS School Management System
-
-<div align="center">
+**KNHS School Management System** — Production-grade platform built solo
 
 ```
-Scale:      ████████████████████████████  15,000+ lines
-Complexity: ██████████████████████░░░░░░  Full-stack
-Status:     ████████████████████████████  Production live
-Built by:   ████████████████████████████  100% solo
+Scale:          ████████████████████████████  25,000+ lines
+Architecture:   ██████████████████████░░░░░░  Full-stack
+Commits:        ████████████████████████████  314+
+Status:         ████████████████████████████  Live Production
+Team:           ████████████████████████████  100% solo
 ```
 
-| Features | Technology |
-|:---------|:-----------|
-| Student enrollment & records | Vue.js 3 |
-| Real-time grade management | TypeScript |
-| Academic year management | Supabase |
-| Admin dashboard & analytics | TailwindCSS |
-| Emergency lockdown system | Vite |
-| Complete audit logging | PostgreSQL |
+| Component | Technology |
+|:----------|:-----------|
+| Frontend Framework | Nuxt.js 3 (Vue 3) |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| Backend/Database | Supabase + PostgreSQL |
+| Error Tracking | Sentry |
+| Build Tool | Vite |
+| Deployment | Vercel |
 
-</div>
+**Core Features:**
+- Student enrollment & academic records
+- Real-time grade management with audit logging
+- Academic year & curriculum administration
+- Role-based access control (Admin/Teacher/Student)
+- Emergency lockdown system
+- Comprehensive analytics dashboard
 
 <br>
 
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/animation_500_kxa883sd.gif" width="100%">
+## Technology Stack
 
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-### Core
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117)
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 
-### Tools & Platforms
-
+### Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117)
+
+### Tools & Platforms
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
-
-### Creative
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
 
 <br>
 
-<!-- Purple divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/purple-line.gif" width="100%">
-</div>
+## Project Portfolio
+
+### Production Systems
+
+| Project | Stack | Status | Description |
+|:--------|:------|:------:|:------------|
+| **KNHS Portal** | Nuxt 3, TS, Supabase | 🟢 Live | 25K+ LOC school management system |
+| **HopKit** | Rust, Tauri v2 | 🟡 Dev | Cross-distro Linux package sync tool |
+| **M-drop** | Rust, Tauri v2 | 🟡 Dev | Local network file sharing (LocalSend-inspired) |
+
+### Active Development
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| **M0B1US Blog** | Next.js 15, React 19, Prisma | Personal blog platform |
+| **Sugo Tacurong** | Nuxt.js | Regional tourism/location project |
+| **Arcza** | Nuxt.js, Neon PostgreSQL | Data-driven web application |
+| **Portfolio Site** | Nuxt.js | Personal portfolio |
 
 <br>
 
-## Creative Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Instance Zero
-**Industrial Horror Game**
-
-🎮 Godot 4  
-🟡 In Development
-
-*Atmospheric horror that gets under your skin*
-
-</td>
-<td align="center" width="50%">
-
-### Dead Current
-**Survival Horror**
-
-🎮 Godot 4  
-🔴 Pre-Production
-
-*Power. Isolation. Dread.*
-
-</td>
-</tr>
-</table>
-
-### Photo Restoration
-Professional-grade restoration for damaged and vintage photographs
-
-✨ Damage repair | 🎨 Color correction | 🔍 Detail enhancement
-
-</div>
-
-<br>
-
-<!-- Animated divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevM0B1US&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&icon_color=9d00ff&text_color=c9d1d9&ring=bf00ff)
+![Stats](https://github-readme-stats.vercel.app/api?username=DevM0B1US&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring=58a6ff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevM0B1US&theme=midnight-purple&hide_border=true&background=0d1117&stroke=bf00ff&ring=9d00ff&fire=bf00ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=bf00ff&sideLabels=c9d1d9&dates=8b949e)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevM0B1US&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM0B1US&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=bf00ff&text_color=c9d1d9)
-
-</div>
-
-<br>
-
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/animation_500_kxa883sd.gif" width="100%">
-
-<br>
-
-## Achievements
-
-<div align="center">
-
-| Education | Experience | Projects |
-|:----------|:-----------|:---------|
-| TVL-ICT Graduate | NIA Work Immersion | 15K line system |
-| 4th Rank BSIT @ SKSU | Data migration | Production deployed |
-| | | Full-stack solo build |
-
-### Target Destinations
-
-🇨🇦 **Canada** — Primary  
-🇳🇱 **Netherlands** — Secondary
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM0B1US&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
-
-<br>
-
-<!-- Animated snake -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br>
 
 ## Languages
 
-<div align="center">
-
 | Language | Proficiency |
 |:---------|:------------|
-| 🇬🇧 English | Fluent |
+| 🇬🇧 English | Fluent (Professional) |
 | 🇵🇭 Tagalog | Native |
 | 🌾 Hiligaynon | Native |
 
-</div>
-
 <br>
 
-<!-- Footer with blackhole -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:2d004d&height=150&section=footer&animation=twinkling)
-
-### "Code is poetry. I write epics."
+> *"Build things that matter. Ship fast. Improve always."*
 
 **Ceazar Ian Edit** • 2026
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer)
 
 </div>
